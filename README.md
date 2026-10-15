@@ -293,24 +293,6 @@ Potential improvements to this project include:
 
 These improvements would make the network easier to maintain, troubleshoot, document, and expand.
 
-## 📁 Repository Structure
-
-A suggested structure for organizing the project repository is:
-
-```text
-networking-capstone-project/
-├── README.md
-├── network-topology.png
-├── packet-tracer/
-│   └── networking-capstone.pkt
-└── documentation/
-    ├── ip-addressing-plan.md
-    ├── router-configuration.txt
-    └── acl-configuration.txt
-```
-
-**Note:** This is a suggested structure. Add the files that are available in your project and update the filenames to match your actual repository contents.
-
 ## ▶️ How to Explore the Project
 
 To explore or reproduce the network simulation:
